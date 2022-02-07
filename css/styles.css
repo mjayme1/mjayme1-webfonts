@@ -1,0 +1,107 @@
+.container {
+    color: #262626;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 3rem 0;
+    width: 60rem;
+}
+
+section {
+    padding: 1.5rem 0 1.65rem;
+    border-top: 0.0625rem solid #e1e1e1;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 4rem;
+    line-height: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 span {
+    font-family: 'Playfair Display', serif;
+    display: block;
+    font-size: 3rem;
+    letter-spacing: 0.125rem;
+}
+
+h2 {
+    font-size: 2.4rem;
+    margin: 1rem 0;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.fable-one h2 {
+    font-family: 'Fanwood Text', serif;
+}
+
+.fable-one p {
+    font-family: 'Quattrocento', serif;
+}
+
+.fable-one p:last-child {
+    font-family: 'Fanwood Text', serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.7rem;
+}
+
+.fable-two h2 {
+    font-family: 'Open Sans Condensed', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.fable-two h2 span {
+    font-family: 'Lora', serif;
+    text-transform: lowercase;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.fable-two p {
+    font-family: 'Lora', serif;
+    line-height: 2.5;
+    font-style: italic;
+}
+
+.fable-three h2 {
+    font-family: 'Ultra', serif;
+    text-transform: uppercase;
+    letter-spacing: 0.0625rem;
+}
+
+.fable-three h2 span {
+    font-family: 'Stint Ultra Expanded', cursive;
+}
+
+.fable-three p {
+    font-family: 'Slabo 13px', serif;
+}
+
+.fable-four h2 {
+    font-family: 'Shrikhand', cursive;
+    line-height: 1.2;
+}
+
+.fable-four span {
+    font-family: 'Sansita Swashed', cursive;
+    display: block;
+}
+
+.fable-four p {
+    font-family: 'Scope One', serif;
+}
+
+.fable-four p:last-child {
+    background-color: #262626;
+    color: #e1e1e1;
+    display: inline;
+    padding: 0.15rem 1rem 0;
+    border-radius: 0.19rem;
+}
